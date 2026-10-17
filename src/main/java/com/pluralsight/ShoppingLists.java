@@ -6,5 +6,4 @@ public class ShoppingLists {
                 " Apple" + " Banana" + " Orange" + " Chocolate" +  " Water " +
                 " Mango " + " Ginger" + " Onion" + " Carrots" );
     }
-
 }
